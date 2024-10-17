@@ -1,0 +1,18 @@
+﻿  main.cpp
+C:\Users\nirb2\Downloads\Final_Project\Graphics\Graphics\main.cpp(129,25): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+C:\Users\nirb2\Downloads\Final_Project\Graphics\Graphics\main.cpp(129,20): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+C:\Users\nirb2\Downloads\Final_Project\Graphics\Graphics\main.cpp(132,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\nirb2\Downloads\Final_Project\Graphics\Graphics\main.cpp(128,9): warning C4101: 'j': unreferenced local variable
+C:\Users\nirb2\Downloads\Final_Project\Graphics\Graphics\main.cpp(289,28): warning C4838: conversion from 'int' to 'double' requires a narrowing conversion
+C:\Users\nirb2\Downloads\Final_Project\Graphics\Graphics\main.cpp(289,46): warning C4838: conversion from 'int' to 'double' requires a narrowing conversion
+C:\Users\nirb2\Downloads\Final_Project\Graphics\Graphics\main.cpp(293,32): warning C4838: conversion from 'int' to 'double' requires a narrowing conversion
+C:\Users\nirb2\Downloads\Final_Project\Graphics\Graphics\main.cpp(293,56): warning C4838: conversion from 'int' to 'double' requires a narrowing conversion
+C:\Users\nirb2\Downloads\Final_Project\Graphics\Graphics\main.cpp(303,30): warning C4838: conversion from 'int' to 'double' requires a narrowing conversion
+C:\Users\nirb2\Downloads\Final_Project\Graphics\Graphics\main.cpp(303,54): warning C4838: conversion from 'int' to 'double' requires a narrowing conversion
+C:\Users\nirb2\Downloads\Final_Project\Graphics\Graphics\main.cpp(313,32): warning C4838: conversion from 'int' to 'double' requires a narrowing conversion
+C:\Users\nirb2\Downloads\Final_Project\Graphics\Graphics\main.cpp(313,56): warning C4838: conversion from 'int' to 'double' requires a narrowing conversion
+C:\Users\nirb2\Downloads\Final_Project\Graphics\Graphics\main.cpp(323,30): warning C4838: conversion from 'int' to 'double' requires a narrowing conversion
+C:\Users\nirb2\Downloads\Final_Project\Graphics\Graphics\main.cpp(323,54): warning C4838: conversion from 'int' to 'double' requires a narrowing conversion
+C:\Users\nirb2\Downloads\Final_Project\Graphics\Graphics\main.cpp(336,19): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\nirb2\Downloads\Final_Project\Graphics\Graphics\main.cpp(337,19): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Graphics.vcxproj -> C:\Users\nirb2\Downloads\Final_Project\Graphics\Debug\Graphics.exe
